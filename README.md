@@ -1,8 +1,9 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjay)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+Welcome+to+my+space!;I'm+Sanjay%2C+nice+to+meet+you!;Exploring+code+%26+creativity+every+day.;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
 </div>
+
 
 <h3 align="center">Web developer and machine learning enthusiast with growing expertise in database management systems.</h3>
 
