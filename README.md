@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sanjay.;Web+Developer+%7C+ML+Enthusiast+%7C+Loves+DBMS;Always+building+and+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
 <h3 align="center">Web developer and machine learning enthusiast with growing expertise in database management systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-2k04&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-2k04" /> </p>
