@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Sanjay</h1>
+
 <h3 align="center">Web developer and machine learning enthusiast with growing expertise in database management systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-2k04&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-2k04" /> </p>
